@@ -1,0 +1,22 @@
+title.txt
+====
+安装：
+Python --version
+pip install -U sphinx
+sphinx-build --version
+
+产生文件夹源目录：
+sphinx-quickstart
+（https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-language.）
+（maxdepth: 2---文档深度）
+
+运行构建：
+$ sphinx-build -b html sourcedir builddir
+（sphinx-build.exe -b html source build）
+./make.bat html(如果需要发布)
+
+sphinx-build -b html source build
+make html
+
+安装支持markdown
+pip install --upgrade recommonmark

@@ -1,0 +1,26 @@
+说明
+========
+**使用说明**
+
+  * 在index.rst文件中引入新增加的文件
+  * 执行命令：sphinx-build -b html source build
+  * 执行命令：make html
+  * pdf生成：make latexpdf
+  
+**介绍**
+
+  * source文件夹：存放源文件（rst/txt/md）、资源文件（图片等）、配置文件（conf.py）
+  * build文件夹：编译后的文件（HTML、PDF）
+  
+**相关链接**
+
+  * 主题：http://www.pythondoc.com/sphinx/theming.html#using-a-theme
+  * 主题： `a link`_
+  * texlive镜像资源：`link`_
+  * 配置markdown：`markdown`_
+  * https://zhuanlan.zhihu.com/p/136931926
+  * texlive: https://blog.csdn.net/weixin_39892850/article/details/105468247
+
+.. _a link: http://www.pythondoc.com/sphinx/theming.html#using-a-theme/
+.. _link: https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/
+.. _markdown: https://www.sphinx-doc.org/en/master/usage/markdown.html
