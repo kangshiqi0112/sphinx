@@ -1,8 +1,0 @@
-\babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}welcome}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}说明}{3}{chapter.2}%
-\contentsline {chapter}{\numberline {3}title.txt}{5}{chapter.3}%
-\contentsline {chapter}{\numberline {4}one file.md}{7}{chapter.4}%
-\contentsline {section}{\numberline {4.1}二级标题}{7}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}三级标题}{7}{subsection.4.1.1}%
-\contentsline {chapter}{Bibliography}{9}{chapter*.3}%
